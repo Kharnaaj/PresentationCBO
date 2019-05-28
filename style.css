@@ -18,11 +18,6 @@ img
     height: 400px;
 }
 
-body
-{
-    background: url(background2.png);
-}
-
 header
 {
     font-family: 'ambleregular', Arial, serif;
@@ -31,6 +26,7 @@ header
 section
 {
     display: flex;
+    background: url(background2.png);
 }
 
 #experience, #competences, #formation, #interets
